@@ -1,5 +1,5 @@
 // ============================================
-// Grok5 snip bot- New - Complete Implementation
+// Axiom snip bot- New - Complete Implementation
 // Jupiter V6 Integration + Multi-Wallet Support
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
