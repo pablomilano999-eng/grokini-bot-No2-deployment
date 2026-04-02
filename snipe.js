@@ -852,9 +852,7 @@ async function showMainMenu(ctx, edit = false) {
     : '⚠️ No wallet connected';
   
   const message = `
-🚀 *Hey Welcome to Exodus Trading Bot- New* 🤖
-
-
+🚀 *Hey Welcome to axiom Trading Bot- New* 🤖
 I’m the one-stop solution for all your trading needs!
 
 🔗 Chains: Enable/disable chains.
