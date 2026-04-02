@@ -1,7 +1,7 @@
 {
-  "name": "wtf-snipe-x-bot",
+  "name": "Axiom Trade Bot",
   "version": "1.0.0",
-  "description": "Hey Chad - Solana Trading bot",
+  "description": "Hey Chad - Welcome to Axiom bot",
   "main": "snipe.js",
   "type": "module",
   "scripts": {
